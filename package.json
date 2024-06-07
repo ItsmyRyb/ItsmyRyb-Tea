@@ -1,0 +1,27 @@
+{
+  "name": "checks",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamnoblechris/checks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamnoblechris/checks/issues"
+  },
+  "homepage": "https://iamnoblechris/checks#readme",
+  "dependencies": {
+    "complex-package-minhhnob": "^1.0.0",
+    "simple-package-example-dangtthuynhi": "^1.0.0",
+    "sum-dangtthuynhi": "^1.0.0",
+    "example-sum-hminhthu": "^1.0.0", 
+    "advanced-math-toolkit": "^1.0.0",
+    "word-counter-tea": "^1.0.0"
+  }
+}
